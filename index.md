@@ -2,7 +2,7 @@
 
 Welcome to my website. I am a graduate student in Boston College in the philsophy department.
 
-[This is a link](https://google.com)
+[This is my resume!](/CV.pdf)
 
 ## This is my second title
 
