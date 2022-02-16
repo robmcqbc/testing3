@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Hello there!
 
-You can use the [editor on GitHub](https://github.com/robmcqbc/testing3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my website. I am a graduate student in Boston College in the philsophy department.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[This is a link](https://google.com)
+
+## This is my second title
+
+Content here.
 
 ### Markdown
 
